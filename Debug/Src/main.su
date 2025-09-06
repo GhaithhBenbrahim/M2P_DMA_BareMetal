@@ -1,0 +1,13 @@
+C:/Users/benbr/Documents/STM32/DMA-workspace/M2P_DMA_BareMetal/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/main.c:40:5:main	8	static
+../Src/main.c:54:6:send_some_data	40	static
+../Src/main.c:76:6:button_init	24	static
+../Src/main.c:115:6:uart2_init	24	static
+../Src/main.c:168:6:dma1_init	24	static
+../Src/main.c:226:6:Enable_DMA1_Stream6	16	static
+../Src/main.c:236:6:DMA1_Interrupt_Configuration	16	static
+../Src/main.c:261:6:HT_Complete_callback	4	static
+../Src/main.c:266:6:FT_Complete_callback	24	static
+../Src/main.c:287:6:TE_error_callback	4	static
+../Src/main.c:292:6:FE_error_callback	4	static
+../Src/main.c:298:6:DME_error_callback	4	static
